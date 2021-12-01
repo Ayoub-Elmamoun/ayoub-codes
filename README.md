@@ -1,5 +1,5 @@
 ### HELLO DUDE 👋
-![github status](https://github-readme-stats.vercel.app/api?username=ayoub-codes&count_private=true&show_icons=true&theme=radical)
+![github status](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=FFFFFF)
 <!--
 **ayoub-codes/ayoub-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
